@@ -1,38 +1,20 @@
-# angular-admin-lte
+# angular6-admin-lte
 
-Admin-lte implementation for Angular 4+
-
-## Doc & Demo
-[https://mika-el.github.io/angular-admin-lte](https://mika-el.github.io/angular-admin-lte/)
+Admin-lte implementation for Angular 6
+Node version v10.10.0
+npm version 6.4.1
 
 ## Installation
 
-To install this library, run:
-
 ```bash
-$ npm install angular-admin-lte --save
-```
-
-## Install demo
-```bash
-$ git clone git://github.com/mika-el/angular-admin-lte
-$ cd angular-admin-lte
-$ npm install
+$ git clone https://github.com/eligomes/angular6-admin-lte.git
+$ cd angular6-admin-lte
+$ npm i
 ```
 
 ## Run demo
 ```bash
 $ ng serve
-```
-
-## Build demo
-```bash
-$ ng build --prod
-```
-
-## Build dist
-```bash
-$ npm run build:lib
 ```
 
 ## Dependencies
