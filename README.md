@@ -1,8 +1,8 @@
 # angular6-admin-lte
 
-Admin-lte implementation for Angular 6
-Node version v10.10.0
-npm version 6.4.1
+* Admin-lte implementation for Angular 6
+* Node version v10.10.0
+* npm version 6.4.1
 
 ## Installation
 
